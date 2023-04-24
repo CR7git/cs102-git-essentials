@@ -4,3 +4,5 @@ five git commands :
 3.cloning
 4.branch
 5.commit
+
+Summary : Learnng about git
