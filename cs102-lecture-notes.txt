@@ -1,0 +1,6 @@
+five git commands :
+1.push
+2.pull
+3.cloning
+4.branch
+5.commit
